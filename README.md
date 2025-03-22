@@ -1,4 +1,4 @@
-# Lead-Integration
+# Make.com-Lead-Integration
 A pipeline I built for a client to import leads and synchronize incoming leads across multiple platforms. 
 
 _Please note that no JSON blueprints are available for this automation flow._
